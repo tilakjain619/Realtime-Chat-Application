@@ -20,14 +20,15 @@ Built a real-time chat app using Socket.IO for the backend and React for the fro
 
 ### Authentication
 
-![Home without Login](https://github.com/user-attachments/assets/66e66de4-088b-4f45-b732-d539abfb30a1)
+![Home Screen without Login](https://github.com/user-attachments/assets/f3c91ead-6719-4bf3-8608-6aa15318504b)
 
-![Home after Login](https://github.com/user-attachments/assets/342fb08c-f8f7-46a1-9845-c8c3e632479c)
+![Home Screen after Login](https://github.com/user-attachments/assets/a6628b00-54ed-4382-9d2c-2fb55937af61)
 
 ### Realtime Chat between two users:
 
-![Chatting between two users](https://github.com/user-attachments/assets/df7b8813-d6aa-4b26-a679-bbf105a92fcd)
+![Chatting between two users](https://github.com/user-attachments/assets/8594649a-867c-4fad-ae64-9f5672295d06)
 
 ### Mobile Friendly Interface:
 
-![Mobile friendly interface](https://github.com/user-attachments/assets/da201d0e-270c-4592-a125-dc10f36f75c2)
+![Mobile friendly interface](https://github.com/user-attachments/assets/f18a9b9f-f4dd-4975-9592-f25a3f642088)
+![Mobile friendly interface](https://github.com/user-attachments/assets/8e1b437a-7a33-47be-b1e3-6a4040b1f293)
