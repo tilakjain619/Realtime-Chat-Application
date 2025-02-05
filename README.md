@@ -12,13 +12,11 @@
 
 *Mentor*: Neela Santosh
 
----
 
 ## Quick Introduction
 
 Built a real-time chat app using Socket.IO for the backend and React for the frontend. The app allows users to send and receive messages instantly, providing a seamless live messaging experience. This project showcases my ability to integrate WebSocket technology with a modern frontend framework to create an interactive and user-friendly chat application.
 
----
 
 ## Output
 
